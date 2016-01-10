@@ -1,0 +1,9 @@
+current issue:
+
+when trying to generate the database with 
+  bundle exec rails g spree_marketplace:install
+  
+error shows:
+  "SQLite3::SQLException: no such column: spree_payment_methods.environment:"
+  
+Can't proceed further
